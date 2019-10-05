@@ -1,0 +1,63 @@
+body{color:#818181;font-weight:400;overflow-y:scroll;overflow-x:hidden!important;-webkit-font-smoothing:antialiased;}
+h2, h2 a{color:#424143}
+.img-overlay{width:100%;height:350px;text-align:center;font:0/0 a;}
+p{font-size:18px;font-weight:400;margin-top:16px;margin-bottom:16px;}
+.img-overlay:before{content:' ';display:inline-block;vertical-align:middle;height:100%;}
+.elearnservicesbg{background:url(//cdn.commlabindia.com/origin/images/services/elearning-services-banner.jpg) no-repeat scroll center center/cover #00ADBF;}
+.welcome-info{background:#e1e1e1 left repeat fixed url('//cdn.commlabindia.com/origin/images/events/pattern-bg.png');}
+.main-img-header .header-image{display:inline-block;vertical-align:middle;padding:5px;text-align:center;}
+.img-overlay{background:rgba(28,30,27,0.4);}
+.main-img-header h1{margin:0px;font-size:40px;color:#FFF;font-weight:600;line-height:54px;letter-spacing:1px;}
+@media (max-width:767px){.main-img-header h1{padding:2em 0;}
+.img-overlay{height:inherit;padding:2em 0}
+}
+.row-wrapper{padding:72px 0;background:#e1e1e1 left repeat fixed }
+.row-wrapper .inner-content h2, .row-wrapper .inner-content h2 a{font-size:30px;font-weight:600;margin:0;letter-spacing:1px;line-height:1.384615384615385em;}
+.row-wrapper .text-row{padding-bottom:36px !important;}
+.separator{margin:34px auto}
+.separator.small{width:200px}
+.separator.small3x{width:300px}
+.separator.small4x{width:400px}
+.separator.small5x{width:500px}
+.separator.col-red{background-color:#EC6851;}
+.separator.col-white{background-color:#ffffff;}
+.separator.col-limeyellow{background-color:#F7C056;}
+.separator.col-cyan{background-color:#35BFAE;}
+.separator.col-blue{background-color:#40A8C6;}
+.separator.col-darkgreen{background-color:#468966;}
+.separator.col-lightgray{background-color:#667690;}
+.separator.small,
+.separator.small3x,
+.separator.small4x,
+.separator.small5x{height:2px;position:relative;}
+.row-wrapper-bg1{background:url("https://cdn.commlabindia.com/origin/images/services/blended-learning-banner.jpg") no-repeat scroll center center/cover #EC6851;}
+.row-wrapper-bg2{background:url("https://cdn.commlabindia.com/origin/images/services/legacy-course-banner.jpg") no-repeat scroll center center/cover #F7C056;}
+.row-wrapper-bg3{background:url("https://cdn.commlabindia.com/origin/images/services/course-translations-banner.jpg") no-repeat scroll center center/cover #35BFAE;}
+.row-wrapper-bg4{background:url("https://cdn.commlabindia.com/origin/images/services/digital-learning-banner.jpg") no-repeat scroll center center/cover #40A8C6;}
+.row-wrapper-bg5{background:url("https://cdn.commlabindia.com/origin/images/services/game-based-learning-banner.jpg") no-repeat scroll center center/cover #468966;}
+.row-wrapper-bg6{background:url("https://cdn.commlabindia.com/origin/images/services/videos-based-learning-banner.jpg") no-repeat scroll center center/cover #667690;}
+.row-wrapper.contact-bg{background:url("https://cdn.commlabindia.com/origin/images/commlabindia/home60117/slide4.jpg") no-repeat scroll center center/cover #1C1B17;}
+.row-wrapper-withbg .text-color{color:#ffffff;}
+.btn{position:relative;display:inline-block;width:auto;height:39px;line-height:39px;margin:0;padding:0 23px;border:2px solid #303030;font-size:13px;font-weight:700;color:#303030;text-decoration:none;cursor:pointer;outline:0;font-style:normal;text-transform:uppercase;letter-spacing:1px;-o-border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;-ms-border-radius:4px;border-radius:4px;text-shadow:none;background-color:transparent;-webkit-transition:color .1s linear,background-color .1s linear,border-color .1s linear;transition:color .1s linear,background-color .1s linear,border-color .1s linear;-webkit-box-sizing:initial!important;-moz-box-sizing:initial!important;box-sizing:initial!important;}
+.btn.text_color_red{color:rgb(236, 104, 31);}
+.btn.text_color_white{color:rgb(255, 255, 255);}
+.btn.text_color_limeyellow{color:#F7C056}
+.btn.text_color_cyan{color:#35BFAE}
+.btn.text_color_blue{color:#40A8C6;}
+.btn.text_color_darkgreen{color:#468966;}
+.btn.text_color_lightgray{color:#667690;}
+.btn-white{border-color:rgb(255, 255, 255);background-color:rgb(255, 255, 255);}
+.btn-white:hover{background-color:rgba(0,0,0,0.01);color:#FFF;}
+.btn-red{border-color:#EC6851;background-color:#EC6851;}
+.btn-red:hover{background-color:rgba(0,0,0,0.01);color:#EC6851}
+.btn-limeyellow{border-color:#F7C056;background-color:#F7C056;}
+.btn-limeyellow:hover{background-color:rgba(0,0,0,0.01);color:#F7C056}
+.btn-cyan{border-color:#35BFAE;background-color:#35BFAE;}
+.btn-cyan:hover{background-color:rgba(0,0,0,0.01);color:#35BFAE}
+.btn-blue{border-color:#40A8C6;background-color:#40A8C6;}
+.btn-blue:hover{background-color:rgba(0,0,0,0.01);color:#40A8C6;}
+.btn-darkgreen{border-color:#468966;background-color:#468966;}
+.btn-darkgreen:hover{background-color:rgba(0,0,0,0.01);color:#468966;}
+.row-wrapper .contact-row{max-width:650px;margin:0 auto;}
+.row-wrapper .contact-row .callToaction{font-size:24px;line-height:40px;}
+.footer-columns{margin-top:0px;}
